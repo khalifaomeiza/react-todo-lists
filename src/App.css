@@ -30,7 +30,6 @@ body {
 .taskContainer .done .taskText{
   text-decoration: line-through;
   opacity: 0.3;
-  flex:1
 }
 .taskContainer div{
   display: flex;
